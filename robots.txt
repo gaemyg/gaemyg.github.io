@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gaemyg.github.io/CiM/sitemap.CiM.gz
